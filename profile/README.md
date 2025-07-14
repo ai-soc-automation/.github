@@ -23,7 +23,7 @@ We aim to:
 |------------|-------------|
 | [LLM-SOC-Agent](https://github.com/ai-soc-automation/LLM-SOC-Agent) | An open-source LLM-powered enrichment and triage agent for SOCs |
 | [ai-soc-datasets](https://github.com/ai-soc-automation/ai-soc-datasets) | Cleaned and labeled SOC datasets including CIC-IDS 2018 and synthetic streams |
-| [log-insight-ai](https://github.com/elbazhazem/log-insight-ai) | Early experiments using LLMs to analyze and summarize logs |
+| [log-analyzer-LLM](https://github.com/elbazhazem/log-analyzer-LLM) | Early experiments using LLMs to analyze and summarize logs |
 | [log-anomaly-detection](https://github.com/elbazhazem/log-anomaly-detection) | Benchmarks and experiments on anomaly detection in network traffic |
 | [research-papers](https://github.com/ai-soc-automation/research-papers) | Ongoing academic work on AI-driven SOC architecture |
 | [portfolio](https://github.com/ai-soc-automation/portfolio) | The landing portfolio for Hazem Elbaz's specialization in AI-SOC |
