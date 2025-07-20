@@ -45,13 +45,6 @@ See: [Team Structure](https://github.com/orgs/ai-soc-automation/teams)
 
 ---
 
-## Research Blog
-
-📬 Read our technical progress and updates here:  
-👉 [Visit the blog](./blog/)  
-
----
-
 ## 🚀 Get Involved
 
 We welcome collaboration from researchers, security analysts, and engineers.  
