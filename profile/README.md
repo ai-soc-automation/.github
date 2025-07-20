@@ -53,7 +53,7 @@ Here’s how you can contribute:
 - ⭐ Star the projects you find helpful
 - 🐛 Open issues or suggest improvements
 - 📑 Propose ideas, papers, or datasets
-- 🗣 Engage with our updates on [LinkedIn](https://www.linkedin.com/in/hazemelbaz)
+- 🗣 Engage with our updates on [LinkedIn](https://www.linkedin.com/in/hazemelbaz/recent-activity/all/)
 
 ---
 
